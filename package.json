@@ -1,0 +1,24 @@
+{
+  "name": "release_npm",
+  "version": "1.0.0",
+  "description": "npm release setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitbhatia1994/release_npm.git"
+  },
+  "dependencies": {
+    "react": "15.0.2",
+    "eslint": "^2.13.1"
+  },
+  "author": "Mohit Bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohitbhatia1994/release_npm/issues"
+  },
+  "homepage": "https://github.com/mohitbhatia1994/release_npm#readme"
+}
