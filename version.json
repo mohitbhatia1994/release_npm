@@ -1,7 +1,5 @@
 {
-  "version": "11.0.20",
-  "description": "npm release setup",
-  "main": "index.js",
+  "version": "11.0.21",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
