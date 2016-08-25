@@ -24,7 +24,7 @@
         "baseDir": "dist",
         "files": ["**/*"],
         "pkgFiles": null,
-        "beforeStageCommand": false,
+        "beforeStageCommand": true,
         "afterReleaseCommand": false
     },
     "npm": {
