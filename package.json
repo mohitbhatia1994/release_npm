@@ -12,8 +12,6 @@
     "url": "git+https://github.com/mohitbhatia1994/release_npm.git"
   },
   "dependencies": {
-    "react": "15.0.2",
-    "eslint": "^2.13.1",
     "release-it": "^2.4.3"
   },
   "author": "Mohit Bhatia",
