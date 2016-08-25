@@ -1,8 +1,8 @@
 {
     "non-interactive": false,
     "dry-run": false,
-    "verbose": false,
-    "force": true,
+    "verbose": true,
+    "force": false,
     "pkgFiles": ["package.json"],
     "increment": "patch",
     "prereleaseId": "-SNAP",
