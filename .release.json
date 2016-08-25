@@ -10,6 +10,7 @@
     "tagName": "%s",
     "tagAnnotation": "Release %s",
     "buildCommand": false,
+    "private": true,
     "changelogCommand": "git log --pretty=format:'* %s (%h)' [REV_RANGE]",
     "requireCleanWorkingDir": false,
     "src": {
