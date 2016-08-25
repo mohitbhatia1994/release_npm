@@ -23,7 +23,7 @@
         "stageDir": ".stage",
         "baseDir": "dist",
         "files": ["**/*"],
-        "pkgFiles": null,
+        "pkgFiles": ["version.json"],
         "beforeStageCommand": false,
         "afterReleaseCommand": false
     },
