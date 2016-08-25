@@ -4,7 +4,7 @@
     "verbose": true,
     "force": false,
     "pkgFiles": ["version.json", "package.json"],
-    "increment": "patch",
+    "increment": "minor",
     "prepatchId": "-SNAPSHOT",
     "commitMessage": "Bumping version to %s",
     "tagName": "v%s",
