@@ -15,7 +15,7 @@
     "src": {
         "pushRepo": null,
         "beforeStartCommand": "echo 1",
-        "beforeStageCommand": "echo 12",
+        "beforeStageCommand": "echo 2",
         "afterReleaseCommand": "echo 13"
     },
     "dist": {
