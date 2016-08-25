@@ -10,7 +10,6 @@
     "tagName": "%s",
     "tagAnnotation": "Release %s",
     "buildCommand": false,
-    "private": true,
     "changelogCommand": "git log --pretty=format:'* %s (%h)' [REV_RANGE]",
     "requireCleanWorkingDir": true,
     "src": {
@@ -32,7 +31,7 @@
         "publish": false,
         "publishPath": ".",
         "tag": "latest",
-        "private": false,
+        "private": true,
         "forcePublishSourceRepo": false
     },
     "github": {
