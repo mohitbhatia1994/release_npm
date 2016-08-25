@@ -1,12 +1,12 @@
 {
   "name": "release_npm",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "npm release setup",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
-    "release": "release-it"
+    "release": "git status && release-it"
   },
   "repository": {
     "type": "git",
