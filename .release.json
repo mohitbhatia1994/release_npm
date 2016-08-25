@@ -3,7 +3,7 @@
     "dry-run": false,
     "verbose": false,
     "force": false,
-    "pkgFiles": ["package.json"],
+    "pkgFiles": ["version.json"],
     "increment": "major",
     "prereleaseId": null,
     "commitMessage": "Bumping version to %s",
