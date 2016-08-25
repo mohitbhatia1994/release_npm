@@ -7,7 +7,7 @@
     "increment": "patch",
     "prereleaseId": "-SNAPSHOT",
     "commitMessage": "Bumping version to %s",
-    "tagName": "%s-SNAPSHOT",
+    "tagName": "%s",
     "tagAnnotation": "Release %s",
     "buildCommand": false,
     "changelogCommand": "git log --pretty=format:'* %s (%h)' [REV_RANGE]",
