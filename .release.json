@@ -3,7 +3,7 @@
     "dry-run": false,
     "verbose": true,
     "force": false,
-    "pkgFiles": ["version.json", "psackage.json"],
+    "pkgFiles": ["version.json", "package.json"],
     "increment": "patch",
     "prereleaseId": "-SNAP",
     "commitMessage": "Bumping version to %s",
@@ -11,7 +11,7 @@
     "tagAnnotation": "Release %s",
     "buildCommand": false,
     "changelogCommand": "git log --pretty=format:'* %s (%h)' [REV_RANGE]",
-    "requireCleanWorkingDir": false,
+    "requireCleanWorkingDir": true,
     "src": {
         "pushRepo": null,
         "beforeStartCommand": false,
