@@ -1,6 +1,3 @@
 {
-  "version": "11.0.27",
-  "dependencies": {
-    "release-it": "^2.4.3"
-  }
+  "version": "11.0.28"
 }
