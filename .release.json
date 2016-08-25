@@ -14,7 +14,7 @@
     "requireCleanWorkingDir": false,
     "src": {
         "pushRepo": null,
-        "beforeStartCommand": "echo 11",
+        "beforeStartCommand": "echo 1",
         "beforeStageCommand": "echo 12",
         "afterReleaseCommand": "echo 13"
     },
