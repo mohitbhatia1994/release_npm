@@ -5,7 +5,7 @@
     "force": false,
     "pkgFiles": ["version.json", "package.json"],
     "increment": "patch",
-    "prereleaseId": "-SNAPSHOT",
+    "prepatchId": "-SNAPSHOT",
     "commitMessage": "Bumping version to %s",
     "tagName": "v%s",
     "tagAnnotation": "Release v%s",
