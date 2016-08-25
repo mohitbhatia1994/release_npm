@@ -1,6 +1,6 @@
 {
   "name": "release_npm",
-  "version": "9.0.0-SNAPSHOT.0",
+  "version": "10.0.0-SNAPSHOT.0",
   "description": "npm release setup",
   "main": "index.js",
   "scripts": {
