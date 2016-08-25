@@ -12,7 +12,7 @@
     "buildCommand": false,
     "private": true,
     "changelogCommand": "git log --pretty=format:'* %s (%h)' [REV_RANGE]",
-    "requireCleanWorkingDir": false,
+    "requireCleanWorkingDir": true,
     "src": {
         "pushRepo": null,
         "beforeStartCommand": false,
