@@ -1,6 +1,5 @@
 {
   "name": "release_npm",
-  "version": "11.0.9",
   "description": "npm release setup",
   "main": "index.js",
   "scripts": {
@@ -22,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/mohitbhatia1994/release_npm/issues"
   },
-  "homepage": "https://github.com/mohitbhatia1994/release_npm#readme"
+  "homepage": "https://github.com/mohitbhatia1994/release_npm#readme",
+  "version": "11.0.10"
 }
