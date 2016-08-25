@@ -3,7 +3,7 @@
     "dry-run": false,
     "verbose": true,
     "force": false,
-    "pkgFiles": ["package.json"],
+    "pkgFiles": ["version.json"],
     "increment": "patch",
     "prereleaseId": "-SNAP",
     "commitMessage": "Bumping version to %s",
@@ -23,7 +23,7 @@
         "stageDir": ".stage",
         "baseDir": "dist",
         "files": ["**/*"],
-        "pkgFiles": "version.json",
+        "pkgFiles": null,
         "beforeStageCommand": false,
         "afterReleaseCommand": false
     },
