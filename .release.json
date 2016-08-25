@@ -3,9 +3,9 @@
     "dry-run": false,
     "verbose": false,
     "force": false,
-    "pkgFiles": ["version.json"],
+    "pkgFiles": ["package.json"],
     "increment": "patch",
-    "prereleaseId": null,
+    "prereleaseId": "-SNAP",
     "commitMessage": "Bumping version to %s",
     "tagName": "%s",
     "tagAnnotation": "Release %s",
@@ -24,7 +24,7 @@
         "baseDir": "dist",
         "files": ["**/*"],
         "pkgFiles": null,
-        "beforeStageCommand": true,
+        "beforeStageCommand": false,
         "afterReleaseCommand": false
     },
     "npm": {
