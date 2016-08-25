@@ -1,7 +1,7 @@
 {
-    "non-interactive": true,
+    "non-interactive": false,
     "dry-run": false,
-    "verbose": false,
+    "verbose": true,
     "force": false,
     "pkgFiles": ["package.json"],
     "increment": "patch",
