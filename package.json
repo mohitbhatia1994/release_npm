@@ -1,6 +1,6 @@
 {
   "name": "release_npm",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "npm release setup",
   "main": "index.js",
   "scripts": {
