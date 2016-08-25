@@ -1,1 +1,1 @@
-# Automating NPM release
+# Automating NPM release by using release-it
