@@ -1,12 +1,12 @@
 {
   "name": "release_npm",
-  "version": "6.0.0--SNAPSHOT.0",
+  "version": "7.0.0-SNAPSHOT.0",
   "description": "npm release setup",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
-    "release": "release-it premajor --prereleaseId='-SNAPSHOT'"
+    "release": "release-it premajor --prereleaseId='SNAPSHOT'"
   },
   "repository": {
     "type": "git",
