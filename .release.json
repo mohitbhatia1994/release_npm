@@ -14,7 +14,7 @@
     "requireCleanWorkingDir": false,
     "src": {
         "pushRepo": null,
-        "beforeStartCommand": false,
+        "beforeStartCommand": "git status",
         "beforeStageCommand": false,
         "afterReleaseCommand": false
     },
