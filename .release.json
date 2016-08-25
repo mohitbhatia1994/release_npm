@@ -3,7 +3,7 @@
     "dry-run": false,
     "verbose": false,
     "force": true,
-    "pkgFiles": ["package.json"],
+    "pkgFiles": ["version.json"],
     "increment": "patch",
     "prereleaseId": "-SNAP",
     "commitMessage": "Bumping version to %s",
