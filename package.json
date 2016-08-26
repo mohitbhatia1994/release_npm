@@ -12,7 +12,7 @@
     "url": "git+https://github.com/mohitbhatia1994/release_npm.git"
   },
   "dependencies": {
-    "release-it": "^2.4.3"
+    "release-it-snapshot": "^1.0.0"
   },
   "author": "Mohit Bhatia",
   "license": "ISC",
