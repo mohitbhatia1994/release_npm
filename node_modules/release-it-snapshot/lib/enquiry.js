@@ -58,7 +58,7 @@ module.exports = function(subject, tasks, options) {
             prompt: {
                 type: 'confirm',
                 name: 'tag',
-                message: 'Tag (' + util.format(version, options.version) + ')?',
+                message: 'Tag (v' + util.format(version, options.version) + ')?',
                 default: true
             },
             task: tasks.tag
