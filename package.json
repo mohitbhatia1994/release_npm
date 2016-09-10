@@ -5,14 +5,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
-    "release": "release-it-snapshot"
+    "release": "sbt-release"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mohitbhatia1994/release_npm.git"
   },
   "dependencies": {
-    "release-it-snapshot": "^1.0.0"
+    "sbt-release": "^1.0.0"
   },
   "author": "Mohit Bhatia",
   "license": "ISC",
@@ -20,5 +20,5 @@
     "url": "https://github.com/mohitbhatia1994/release_npm/issues"
   },
   "homepage": "https://github.com/mohitbhatia1994/release_npm#readme",
-  "version": "17.0.6-SNAPSHOT"
+  "version": "17.0.8-SNAPSHOT"
 }
