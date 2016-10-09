@@ -11,7 +11,7 @@
     "url": "git+https://github.com/mohitbhatia1994/release_npm.git"
   },
   "dependencies": {
-    "sbt-release": "^1.0.1"
+    "sbt-release": "^1.0.2"
   },
   "author": "Mohit Bhatia",
   "license": "ISC",
